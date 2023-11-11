@@ -25,7 +25,7 @@
     border: 0.5px solid white;
 }
 .logo{
-    background-image: url("amazonlogo.jpeg");
+    background-image: url("https://logos-world.net/wp-content/uploads/2020/04/Amazon-Emblem.jpg");
     background-size:cover;
     height: 50px;
     width: 100px;
@@ -163,10 +163,10 @@ span{
     font-weight: bold;
 }
 
-/* video section */
+/* hero section */
 
 .hero-section{
-    background-image: url("https://m.media-amazon.com/images/I/61gGY9AfeSL._SX3000_.jpg");
+    background-image: url("https://m.media-amazon.com/images/I/71cvRGs+pPL._SX3000_.jpg");
     background-size: cover;
     height: 400px;
     display: flex;
@@ -204,7 +204,7 @@ span{
 .shop{
     display: flex;
     justify-content: space-evenly;
-    background-color: #054a3f;
+    background-color: #08463b;
     flex-wrap: wrap;
 }
 .boximg{
@@ -270,7 +270,7 @@ ul a{
     align-items: center;
 }
 .Logo{
-    background-image: url("amazonlogo.jpeg");
+    background-image: url("https://logos-world.net/wp-content/uploads/2020/04/Amazon-Emblem.jpg");
     background-size:cover;
     height: 50px;
     width: 100px;
@@ -299,3 +299,4 @@ ul a{
     padding-top: 5px;
     
 }
+
